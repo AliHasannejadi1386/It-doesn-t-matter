@@ -1,1 +1,1 @@
-192.168.1.100:5858
+https://point-muscle-common-cinema.trycloudflare.com
