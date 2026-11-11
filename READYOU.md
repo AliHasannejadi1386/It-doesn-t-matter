@@ -1,1 +1,1 @@
- https://meters-narrow-identifying-train.trycloudflare.com
+http://192.168.1.100:8787
