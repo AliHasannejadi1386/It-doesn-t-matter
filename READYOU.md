@@ -1,1 +1,1 @@
-https://rjhvv-2-191-26-201.free.pinggy.net
+ https://achieve-indie-aged-cpu.trycloudflare.com
