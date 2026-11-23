@@ -1,1 +1,1 @@
- https://achieve-indie-aged-cpu.trycloudflare.com
+https://hamin-chess-server.onrender.com/
